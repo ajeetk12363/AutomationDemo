@@ -1,4 +1,4 @@
-# AutomationDemo
+# Automation demo UI(user-interface)+API(restAssured) Cucumber BDD approach
 The framework for automating UI-API tests 
 Here, using the Page Object Model (POM), each page has its own class following Object-Oriented Programming (OOP) concepts. This approach helps to increase code reusability and provide more flexibility.
 Using a single framework combining UI and API testing (RestAssured) with Cucumber BDD approach to demonstrate proficiency. The BaseClass initializes the browser, closes it after each test class, and is linked across all classes. Additionally, there's a common utility for shared functionalities.
