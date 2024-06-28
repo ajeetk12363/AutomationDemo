@@ -1,5 +1,5 @@
 /**
- * Created by stuart1 on 31/10/2019.
+ * Created by Ajeet on 31/10/2019.
  */
 import { Given, When, Then} from "cypress-cucumber-preprocessor/steps";
 import LoginPage from '../../pages/loginPage';
